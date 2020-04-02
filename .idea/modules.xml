@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Telaconduco_Client/Telaconduco_Client.iml" filepath="$PROJECT_DIR$/Telaconduco_Client/Telaconduco_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telaconduco_Installer_mac/Telaconduco_Installer_Mac.iml" filepath="$PROJECT_DIR$/Telaconduco_Installer_mac/Telaconduco_Installer_Mac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telaconduco_Installer_Windows/Telaconduco_Installer_Windows.iml" filepath="$PROJECT_DIR$/Telaconduco_Installer_Windows/Telaconduco_Installer_Windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telaconduco_Server.iml" filepath="$PROJECT_DIR$/Telaconduco_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telaconduco_Updater/Telaconduco_Updater.iml" filepath="$PROJECT_DIR$/Telaconduco_Updater/Telaconduco_Updater.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Telaconduco_Installer_Windows:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Telaconduco_Installer_Windows_jar</output-path>
+    <root id="archive" name="Telaconduco_Installer_Windows.jar">
+      <element id="module-output" name="Telaconduco_Installer_Windows" />
+    </root>
+  </artifact>
+</component>

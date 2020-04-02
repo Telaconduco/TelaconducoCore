@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Telaconduco_Updater:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Telaconduco_Updater_jar</output-path>
+    <root id="archive" name="Telaconduco_Updater.jar">
+      <element id="module-output" name="Telaconduco_Updater" />
+    </root>
+  </artifact>
+</component>
